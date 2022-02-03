@@ -35,70 +35,70 @@ annotations:
     reference: ''
     span:
       start: 4750
-      end: 6143
+      end: 6142
     note_ref: 88887474568f4e36a67c2dc3d0bf99ea
   54eda0bf2e1945ec91662dff56565369:
     imgnum: 947
     reference: ''
     span:
-      start: 6145
-      end: 7375
+      start: 6144
+      end: 7374
     note_ref: 88887474568f4e36a67c2dc3d0bf99ea
   952ea51327384217a394b54e39f97a14:
     imgnum: 948
     reference: ''
     span:
-      start: 7377
-      end: 8678
+      start: 7376
+      end: 8677
     note_ref: 88887474568f4e36a67c2dc3d0bf99ea
   b4fbd1faf164456ea8fcb35ffcae0a11:
     imgnum: 949
     reference: ''
     span:
-      start: 8680
-      end: 9907
+      start: 8679
+      end: 9906
     note_ref: 88887474568f4e36a67c2dc3d0bf99ea
   d001b503cc964deca32a2e6b784b65d5:
     imgnum: 950
     reference: ''
     span:
-      start: 9909
-      end: 11202
+      start: 9908
+      end: 11201
     note_ref: 6e1ab26fd6ba415b8205b956046e0172
   b845bf3c6c5d47839505220e2ab45ed2:
     imgnum: 951
     reference: ''
     span:
-      start: 11204
-      end: 12481
+      start: 11203
+      end: 12480
     note_ref: 6e1ab26fd6ba415b8205b956046e0172
   ebecb5176d1e49bcae76e5a0090514d6:
     imgnum: 952
     reference: ''
     span:
-      start: 12483
-      end: 13863
+      start: 12482
+      end: 13862
     note_ref: 6e1ab26fd6ba415b8205b956046e0172
   78d6736592024c48a9adeb37797d6d03:
     imgnum: 953
     reference: ''
     span:
-      start: 13865
-      end: 15264
+      start: 13864
+      end: 15263
     note_ref: 6e1ab26fd6ba415b8205b956046e0172
   88887474568f4e36a67c2dc3d0bf99ea:
     imgnum: 954
     reference: ''
     span:
-      start: 15266
-      end: 17115
+      start: 15265
+      end: 17114
     note_ref: 6e1ab26fd6ba415b8205b956046e0172
   6e1ab26fd6ba415b8205b956046e0172:
     imgnum: 955
     reference: ''
     span:
-      start: 17117
-      end: 17926
+      start: 17116
+      end: 17925
 local_ids:
   2ded3d4c50e04500a6060c02c57b6720: 200000
   a3c8f36f75e1410c80dd1eec63256c98: 200001
